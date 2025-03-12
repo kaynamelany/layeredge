@@ -492,3 +492,8 @@
 <!-- a padding to disable MSIE and Chrome friendly error page -->
 
 [07:48:51 | 12-03-2025] ✅ Node started for 0x92650e32f3770392621c740E19D05B8C3B7fA554
+[11:12:39 | 12-03-2025] Wallet Address: 0x92650e32f3770392621c740E19D05B8C3B7fA554
+[11:12:39 | 12-03-2025] Node Points: 599928
+[11:12:39 | 12-03-2025] Last Claim Point: 10/03/2025 20:11:37
+[11:12:42 | 12-03-2025] ✅ Points claimed for 0x92650e32f3770392621c740E19D05B8C3B7fA554
+[11:12:43 | 12-03-2025] 🚨 Failed to start node for 0x92650e32f3770392621c740E19D05B8C3B7fA554: [object Object]
