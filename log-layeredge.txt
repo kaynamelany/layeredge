@@ -1081,3 +1081,18 @@
 [15:12:08 | 06-04-2025] Wallet Address: 0x92650e32f3770392621c740E19D05B8C3B7fA554
 [15:12:08 | 06-04-2025] Node Points: 995422
 [15:12:08 | 06-04-2025] Last Claim Point: 05/04/2025 08:12:22
+[23:10:56 | 06-04-2025] Wallet Address: 0x92650e32f3770392621c740E19D05B8C3B7fA554
+[23:10:56 | 06-04-2025] Node Points: 995422
+[23:10:56 | 06-04-2025] Last Claim Point: 05/04/2025 08:12:22
+[23:10:57 | 06-04-2025] ✅ Points claimed for 0x92650e32f3770392621c740E19D05B8C3B7fA554
+[23:10:58 | 06-04-2025] 🚨 Failed to start node for 0x92650e32f3770392621c740E19D05B8C3B7fA554: <!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Error</title>
+</head>
+<body>
+<pre>Cannot POST /api/light-node/node-action/0x92650e32f3770392621c740E19D05B8C3B7fA554/start</pre>
+</body>
+</html>
+
